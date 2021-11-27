@@ -1,2 +1,2 @@
 # project-euler
-My project euler solutions in JavaScript.
+My project euler solutions.
